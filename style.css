@@ -13,7 +13,6 @@ align-items: center;
 padding:25px 160px;
 
 
-
 }
 .nav-bar{
   font-weight: bolder;
@@ -433,6 +432,7 @@ border-radius: 5px;
 padding: 100px 30px;
 justify-content: center;
 border-radius: 10px;
+padding-top: 50px;
 }
 .opinion-box1{
   display: flex;
@@ -475,9 +475,9 @@ border-radius: 10px;
    border-right: 1px solid black;
    border-left: 1px solid black;
 }
-.agree-btn{
-  padding: 10px 15px;
+#agree{
+  padding: 10px 25px;
   border: none;
   background-color: #85bba3;
-  border-radius: 6px;
+  border-radius: 2px;
 }
