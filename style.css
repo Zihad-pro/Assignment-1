@@ -261,7 +261,7 @@ background-color: #f7f7f7;
 }
 .subscibe-container{
 padding:40px ;
-height:250px;
+height:270px;
 width: 1600px;
 justify-content: center;
 text-align: center;
@@ -274,12 +274,210 @@ background-color: #C6E4D6;
 
 }
 .input-1{
- padding: 15px 200px;
+ padding: 17px 200px;
+ border: none;
+ border-radius: 6px;
+
+ 
+ 
 }
 .subscribe-title{
   padding: 15px;
   font-size: 25px;
+  
 }
 .subscribe-subtitle{
   padding-bottom: 20px;
+  color: #585858;
+}
+.bnanner-btn2{
+background-color: #006A50;
+  padding: 17px 30px;
+  border-radius: 6px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  margin-left: 2px;
+ 
+  
+
+}
+.last-title{
+  color: #7f817b;
+  padding-top: 10px;
+}
+.sub-input{
+  margin-left: 20px;
+}
+.youns-container{
+
+  height: 256px;
+  width:1550px;
+  border: 1px solid rgb(228, 225, 225);
+  padding: 10px 30px;
+  margin-left: 115px;
+  border-radius: 8px;
+}
+.youns-titile{
+ padding: 25px 25px;
+ line-height: 25px;
+background-image: url(./B11A1--assignment-1/assets/quote-bg.png);
+background-repeat: no-repeat;
+font-size: 17px;
+ 
+ 
+}
+.youns-header{
+  padding-left: 20px;
+  padding-bottom: 6px;
+  padding-top: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.youns-subtitle{
+  color: #a5a5a5;
+  padding-left: 20px;
+}
+.donate-container{
+height: 470px;
+  width:1570px;
+padding:50px 45px;
+border: 1px solid rgb(236, 231, 231);
+margin-left: 115px;
+border-radius: 7px;
+margin-bottom: 80px;
+margin-top: 50px;
+background-color: whitesmoke;
+
+
+
+}
+.donate-boxbos{
+
+  padding: 30px 20px;
+  display: flex;
+  align-items: center;
+  gap:30px;
+   padding-left: 100px;
+  
+}
+.donate-b1,.donate-b2,.donate-b3,.donate-b4{
+  height: 50px;
+  width: 170px;
+ padding: 35px 35px;
+ border: 1px solid black;
+  border-radius: 16px;
+    border: none;
+    background-color: #eaecea;
+  
+}
+
+.donate-4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 45px;
+  
+}
+.donate-subtitle{
+padding-left: 250px;
+padding-top: 15px;
+font-size: 17px;
+text-align: center;
+
+
+ 
+}
+.donate-boxbos :hover{
+  background-color: #C6E4D6;
+}
+.donate-btn{
+
+  background-color: #006A50;
+  padding: 17px 35px;
+  border-radius: 6px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  margin-left: 800px;
+  margin-top: 20px;
+  
+
+}
+
+.donate-input{
+
+  padding: 20px 440px;
+  margin-left: 350px;
+  border-radius: 8px;
+  border: none;
+  font-size: 15px;
+}
+.opinaion-h1{
+  font-size: 35px;
+  padding: 65px 95px;
+}
+.op-11{
+padding: 55px 95px;
+font-size: 39px;
+
+
+
+
+}
+.opnion-boos{
+height: 250px;
+width: 1620px;
+border: 1px solid rgb(243, 242, 242);
+margin-left: 110px;
+border-radius: 5px;
+padding: 100px 30px;
+justify-content: center;
+border-radius: 10px;
+}
+.opinion-box1{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid black;
+  padding: 20px;
+  border-right: 1px solid black;
+   border-left: 1px solid black;
+  
+}
+.opinion-box2{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid black;
+  padding: 20px;
+   border-right: 1px solid black;
+   border-left: 1px solid black;
+}
+.opinion-box3{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px solid black;
+   border-right: 1px solid black;
+   border-left: 1px solid black;
+  
+
+}
+.opinon-head2{
+  display: flex;
+  justify-content: space-evenly;
+  gap:700px;
+  border-bottom: 1px solid black;
+  padding: 20px;
+  background-color: #C6E4D6;
+  border-top: 1px solid black;
+   border-right: 1px solid black;
+   border-left: 1px solid black;
+}
+.agree-btn{
+  padding: 10px 15px;
+  border: none;
+  background-color: #85bba3;
+  border-radius: 6px;
 }
